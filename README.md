@@ -10,12 +10,12 @@ HeyGrain, a biscuit manufacturing company based in Chandigarh, launched a new li
 ## 🧾 Product Ingredients
 
 Each 150g pack of Ragi Biscuit contains:
-- **Ragi** – 25%
+- **Ragi** – 35%
 - **Wheat** – 25%
-- **Jaggery** – 25%
+- **Oats** – 25%
 - **Salt** – 1%
-- **Oats** – 20%
-- **Milk** – 4%
+- **Butter** – 9%
+- **Milk** – 5%
 
 ---
 
