@@ -32,7 +32,7 @@ Each 150g pack of Ragi Biscuit contains:
 > 🖼️ Product Picture
 
 ![Ragi Biscuit](https://github.com/rashi12121/HeyGrain-Ragi_Biscuit_Break-even_Analysis/blob/main/_Ragi%20Cookie%201.png)
-(https://github.com/rashi12121/HeyGrain-Ragi_Biscuit_Break-even_Analysis/blob/main/_Ragi%20Cookie%202.png)
+![Ingredients](https://github.com/rashi12121/HeyGrain-Ragi_Biscuit_Break-even_Analysis/blob/main/_Ragi%20Cookie%202.png)
 
 ---
 
